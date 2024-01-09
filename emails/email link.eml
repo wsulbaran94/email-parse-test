@@ -1,0 +1,19 @@
+MIME-Version: 1.0
+Date: Mon, 8 Jan 2024 17:26:58 -0500
+Message-ID: <CAAmr-aKrxrFokSUmMX61r2Sv=o1YiB8iQabHmJAz3VxTrU8dBQ@mail.gmail.com>
+Subject: email link
+From: Wilfredo Antonio Sulbaran Navarro <wilfredo.sulbaran94@gmail.com>
+To: Wilfredo Antonio Sulbaran Navarro <wilfredosulbaran94@gmail.com>
+Content-Type: multipart/alternative; boundary="000000000000277fc5060e76b238"
+
+--000000000000277fc5060e76b238
+Content-Type: text/plain; charset="UTF-8"
+
+https://api.coindesk.com/v1/bpi/currentprice.json
+
+--000000000000277fc5060e76b238
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr"><a href="https://api.coindesk.com/v1/bpi/currentprice.json">https://api.coindesk.com/v1/bpi/currentprice.json</a><br></div>
+
+--000000000000277fc5060e76b238--
